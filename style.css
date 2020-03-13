@@ -1,0 +1,18 @@
+#first {
+    text-align: center;
+}
+#second {
+    font-size: xx-large;
+}
+#hella {
+    font-family: 'Times New Roman', Times, serif; 
+}
+.styledFont {
+    font-family: "Courier New", Courier, monospace;
+    color: olivedrab;
+    font-weight: bolder;
+}
+
+#styledImage {
+    border-style: solid; border-color: orange; border-width: thick;
+}
